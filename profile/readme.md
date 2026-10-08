@@ -33,14 +33,6 @@ We back bold leaders who want to scale their influence, community, and operation
 * **[Arrived](https://teamhappily.com/arrived/)** — Modern guest registration and on-site check-in that's fast, professional, and affordable.
 * **[Embedded](https://teamhappily.com/embedded/)** — Fractional event teams and a vertical hiring marketplace that scales with your needs.
 
-## 🛠️ Build on Arrived
-
-Want a fully custom event site backed by Happily's CMS and registration engine? Start here:
-
-**[arrived-custom-starter](https://github.com/teamhappily/arrived-custom-starter)** — A Next.js 15 + Tailwind v4 starter that turns any [Happily Arrived](https://app.happily.events) event into a fully designable site. Bring your event data, redesign every pixel. Hero, agenda, speakers, sponsors, FAQ, and registration all work out of the box — fork, customize, and deploy to Vercel in minutes.
-
-Design templates live in [Figma](https://www.figma.com/design/k8CN5DFdzpeLCYfhXZmpeT/Design-Jam-Templates), and our API docs are at [app.happily.events/api/docs](https://app.happily.events/api/docs). Questions and show-and-tell happen in our [Discord](https://discord.com/invite/d7HnMZfvB7).
-
 ## Who We Serve
 
 Our clients are innovative explorers across technology, education, nonprofits, arts, and sports — leaders who want to evolve the social interactions that make us human. From the Democratic National Convention to Carnegie Hall, from university commencements to crypto launches, we help organizations turn moments into movements.
